@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pandas = "*"
 seaborn = "*"
+torch = "*"
 
 [dev-packages]
 ipykernel = "*"
